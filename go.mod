@@ -49,11 +49,11 @@ require (
 	go.opentelemetry.io/otel/sdk v1.12.0
 	go.opentelemetry.io/otel/trace v1.12.0
 	go.opentelemetry.io/proto/otlp v0.19.0
-	golang.org/x/crypto v0.3.0
-	golang.org/x/mod v0.7.0
+	golang.org/x/crypto v0.7.0
+	golang.org/x/mod v0.8.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.5.0
-	golang.org/x/term v0.5.0
+	golang.org/x/sys v0.6.0
+	golang.org/x/term v0.6.0
 	google.golang.org/grpc v1.52.3
 	oss.terrastruct.com/d2 v0.1.5
 )
@@ -61,6 +61,7 @@ require (
 require (
 	github.com/go-git/go-git/v5 v5.5.2
 	github.com/google/go-github/v50 v50.1.0
+	github.com/jackpal/gateway v1.0.7
 )
 
 require (
@@ -125,7 +126,6 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
-	github.com/jackpal/gateway v1.0.7 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
@@ -221,10 +221,10 @@ require (
 	github.com/vbatts/tar-split v0.11.2 // indirect
 	github.com/vektah/gqlparser/v2 v2.5.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/net v0.7.0
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/net v0.8.0
+	golang.org/x/text v0.8.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
-	golang.org/x/tools v0.5.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20230131230820-1c016267d619 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
