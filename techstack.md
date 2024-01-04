@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 reconsumeralization/dagger is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
 - [Groovy](https://groovy-lang.org/) – Languages
@@ -29,11 +30,13 @@ reconsumeralization/dagger is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 reconsumeralization/dagger is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
@@ -61,14 +64,15 @@ reconsumeralization/dagger is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/dagger](https://github.com/reconsumeralization/dagger)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|56<br/>Tools used|11/09/23 <br/>Report generated|
+|57<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -345,9 +349,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (27)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -357,6 +361,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.43.0|11/17/22|Andrea Luzzardi |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.43.0|11/17/22|Andrea Luzzardi |BSD-2-Clause|N/A|
 |[adm-zip](https://www.npmjs.com/adm-zip)|v0.5.10|01/04/23|Erik Sipsma |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|01/31/23|vikram-dagger |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|11/17/22|Andrea Luzzardi |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|11/17/22|Andrea Luzzardi |MIT|N/A|
 |[execa](https://www.npmjs.com/execa)|v7.1.1|03/17/23|dependabot[bot] |MIT|N/A|
@@ -378,13 +383,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[anyio](https://pypi.org/anyio)|v3.6.2|11/09/22|Helder Correia |MIT|N/A|
-|[attrs](https://pypi.org/attrs)|v22.2.0|11/09/22|Helder Correia |MIT|N/A|
-|[cattrs](https://pypi.org/cattrs)|v22.2.0|11/09/22|Helder Correia |MIT|N/A|
-|[graphql-core](https://pypi.org/graphql-core)|v3.2.3|02/10/23|Helder Correia |MIT|N/A|
-|[httpx](https://pypi.org/httpx)|v0.23.3|02/28/23|Helder Correia |BSD-3-Clause|N/A|
+|[anyio](https://pypi.org/project/anyio)|v3.6.2|11/09/22|Helder Correia |MIT|N/A|
+|[attrs](https://pypi.org/project/attrs)|v22.2.0|11/09/22|Helder Correia |MIT|N/A|
+|[cattrs](https://pypi.org/project/cattrs)|v22.2.0|11/09/22|Helder Correia |MIT|N/A|
+|[graphql-core](https://pypi.org/project/graphql-core)|v3.2.3|02/10/23|Helder Correia |MIT|N/A|
+|[httpx](https://pypi.org/project/httpx)|v0.23.3|02/28/23|Helder Correia |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
