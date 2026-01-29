@@ -246,7 +246,7 @@ CMD cat /secret && (cat /secret | tr "[a-z]" "[A-Z]")
 			WithMountedSecret("/run/secret", sec).
 			WithExec([]string{"cat", "/run/secret"}).
 			WithNewFile("Dockerfile", `
-			FROM alpine
+			FROM alpine:3.23.3
 			COPY / /
 			`).
 			Directory("/src")
