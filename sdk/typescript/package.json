@@ -24,7 +24,7 @@
     "@opentelemetry/exporter-jaeger": "^2.7.0",
     "@opentelemetry/exporter-trace-otlp-http": "^0.215.0",
     "@opentelemetry/sdk-metrics": "^2.7.0",
-    "@opentelemetry/sdk-node": "^0.215.0",
+    "@opentelemetry/sdk-node": "^0.217.0",
     "@opentelemetry/semantic-conventions": "^1.40.0",
     "adm-zip": "^0.5.17",
     "env-paths": "^4.0.0",
