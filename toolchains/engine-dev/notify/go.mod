@@ -5,13 +5,13 @@ go 1.25.0
 require (
 	github.com/Khan/genqlient v0.8.1
 	github.com/dagger/otel-go v1.41.0
-	github.com/slack-go/slack v0.12.5
+	github.com/slack-go/slack v0.23.1
 	github.com/vektah/gqlparser/v2 v2.5.33
 )
 
 require (
 	github.com/99designs/gqlgen v0.17.90 // indirect
-	github.com/gorilla/websocket v1.5.1 // indirect
+	github.com/gorilla/websocket v1.5.3 // indirect
 	golang.org/x/net v0.52.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
 )
